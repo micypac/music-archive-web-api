@@ -14,7 +14,7 @@ from the JSON files in the **seeds** folder. The seed data for `artists`,
 Run every endpoints with Postman
 and/or in the browser's "Console" tab using `fetch`.
 
-Make sure your server's request-response for every endpoint matches the below API documentation.
+Make sure the server's request-response for every endpoint matches the below API documentation.
 
 ```json
 {

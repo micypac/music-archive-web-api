@@ -4,17 +4,14 @@
   "scripts": {
     "start": "node server.js"
   },
-  "description": "**Finish the [API docs for a Music Archive practice] before this practice.**",
+  "description": "Music archive web API using HTTP.",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appacademy/practice-for-week-08-music-archive-server-long-practice.git"
+    "url": "git+https://github.com/micypac/music-archive-web-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/appacademy/practice-for-week-08-music-archive-server-long-practice/issues"
-  },
-  "homepage": "https://github.com/appacademy/practice-for-week-08-music-archive-server-long-practice#readme"
+  "homepage": "https://github.com/micypac/music-archive-web-api/#readme"
 }
